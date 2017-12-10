@@ -21,12 +21,12 @@
 # 실행
 
 1. 12월 10일
-  * kops와 kubeadm을 통해서 각자 환경 구성
-    * kops 전문가 김신록
-    * kubeadm 전문가 양욱모
-    * 삽질만하는 성열우
-    * 겁나 고모.. 노지연
-  * kops를 통해서 LB 구성 및 nginx Deploy
+   * kops와 kubeadm을 통해서 각자 환경 구성
+      * kops 전문가 김신록
+      * kubeadm 전문가 양욱모
+      * 삽질만하는 성열우
+      * 겁나 고모.. 노지연
+   * kops를 통해서 LB 구성 및 nginx Deploy
   
   
   
